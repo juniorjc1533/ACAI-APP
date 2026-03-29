@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acai-app/static/css/main.b7d9d40c.css",
+    "main.js": "/acai-app/static/js/main.cec940ae.js",
+    "static/media/fundo-hero.png": "/acai-app/static/media/fundo-hero.13dca848ac52344415da.png",
+    "static/media/logo_amarela.png": "/acai-app/static/media/logo_amarela.56e9a84cc2156f6ee376.png",
+    "index.html": "/acai-app/index.html",
+    "main.b7d9d40c.css.map": "/acai-app/static/css/main.b7d9d40c.css.map",
+    "main.cec940ae.js.map": "/acai-app/static/js/main.cec940ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d9d40c.css",
+    "static/js/main.cec940ae.js"
+  ]
+}
